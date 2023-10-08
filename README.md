@@ -1,5 +1,5 @@
 # Intro-Mechatronics-Projects
-Welcome to my Introduction to Mechatronics repository. Here is all the code for my class projects which are all original.
+Welcome to my Introduction to Mechatronics repository where you can find all my original code for my class projects!
 
 # Home Project #4 Loops & Functions 
 The code found in the file named [HP_4.ino](https://github.com/stevenrodriguezz/Intro-Mechatronics-Projects-/blob/main/HP_4.ino) was utilized on an Arduino with an LCD display to calculate and display the results of a mathematical expression for a set of predefined values. It then computes and showcases the minimum and maximum values among the results, all while repeating this process in a loop.
