@@ -17,6 +17,8 @@ Click [here](https://youtube.com/shorts/Li2nkKKLO0o?feature=share) to see my dem
 
 
 # Home Project #6 Photoresistor & PWM Modulator
- In this particular circuit, you'll utilize a photoresistor, which adjusts its resistance in response to the amount of light it detects. Because the RedBoard and Arduino Uno R3 cannot directly interpret resistance, they read voltage instead. To make the photoresistor compatible with these boards, we must incorporate a voltage divider. This voltage divider will yield a high voltage output when exposed to significant light and a low voltage output when light levels are minimal or absent. I have learned how to interface analog sensors, such as a photoresistor, with an Arduino board. Additionally, I gained practical experience in using pulse-width modulation (PWM) to precisely control the brightness of an LED, providing a smooth and gradual transition in illumination levels.
+ In this particular project which can be found under [HP_6.ino](https://github.com/stevenrodriguezz/Intro-Mechatronics-Projects-/blob/main/HP_6.ino), you'll utilize a photoresistor, which adjusts its resistance in response to the amount of light it detects. Because the RedBoard and Arduino Uno R3 cannot directly interpret resistance, they read voltage instead. To make the photoresistor compatible with these boards, we must incorporate a voltage divider. This voltage divider will yield a high voltage output when exposed to significant light and a low voltage output when light levels are minimal or absent. I have learned how to interface analog sensors, such as a photoresistor, with an Arduino board. Additionally, I gained practical experience in using pulse-width modulation (PWM) to precisely control the brightness of an LED, providing a smooth and gradual transition in illumination levels.
+
+ Click [here](https://youtube.com/shorts/Tzpzr_iDycg?feature=share) to see my demonstration video. 
 
 
